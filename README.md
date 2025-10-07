@@ -1,5 +1,9 @@
-# project1
-ъ
+# Name progect
+////
 # Authors
 //
-# 
+# Idea
+# Issyues
+# life hacks
+# Usage
+# Languge 
