@@ -1,9 +1,9 @@
 # Name progect
 ////
-## Authors
+### Authors
 //
-# Idea
-# Issyues
-# life hacks
-# Usage
-# Languge 
+## Idea
+## Issyues
+## life hacks
+## Usage
+## Languge 
