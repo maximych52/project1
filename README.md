@@ -16,5 +16,6 @@ This link lead to dataset used in the project:
 https://catalog.data.gov/dataset/electric-vehicle-population-data
 ## Extra information:
 This project is designed as a homework assignment for "Project1" as part of the "geohse-python" course. 
-### Link to course: https://github.com/teimy/geohse-python/blob/main/Projects/Project1/project_descriptions.md
-### Link to task: https://github.com/teimy/geohse-python
+### Link to course: https://github.com/teimy/geohse-python
+### Link to task: https://github.com/teimy/geohse-python/blob/main/Projects/Project1/project_descriptions.md
+
