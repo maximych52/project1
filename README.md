@@ -15,4 +15,4 @@ This project uses the Python language.
 This link lead to dataset used in the project: 
 https://catalog.data.gov/dataset/electric-vehicle-population-data
 ## Extra information:
-Этот проект сконструирован как домашнее задание " Project1" (https://github.com/teimy/geohse-python/blob/main/Projects/Project1/project_descriptions.md) в рамках курса " geohse-python" (github.com/teimy/geohse-python ) 
+This project is designed as a homework assignment for "Project1" (https://github.com/teimy/geohse-python/blob/main/Projects/Project1/project_descriptions.md) as part of the "geohse-python" course (github.com/teimy/geohse-python).
