@@ -10,6 +10,6 @@ This program identifies the most popular electric vehicle brand and the most pop
 ## life hacks
 ?????
 ## Usage
-Upload file with name " electric_vechicles.csv" in folder "data". Open file "Electric_cars.ipynb" and launch cells. Attend! Name file can be different.
+Upload file with name " electric_vechicles.csv" in folder "data". Open file "Electric_cars.ipynb" and launch cells. Attention!!! The file name may vary
 ## Languge 
 This project uses the Python language.
