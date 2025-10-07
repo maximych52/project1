@@ -1,5 +1,4 @@
-# Name progect
-Research  
+# Research the most popular electric vehicle brand and the most popular model.
 ## Authors
 This project create by Maksim Birukov and Stanislav Shapovalov, HSE in Moscou, 2025. 
 ## Idea
