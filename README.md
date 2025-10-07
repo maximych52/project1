@@ -8,6 +8,7 @@ This program identifies the most popular electric vehicle brand and the most pop
 ## Expand of project
 You can improve this project by adding code to create ratings and year-by-year statistics.
 ## Usage
+Dowland aplly Anaconda and dowland module Jupiter Notebook
 Upload file with name "electric_vechicles.csv" in folder "data". Open file "Electric_cars.ipynb" and launch cells. Attention!!! The file name may vary
 ## Languge 
 This project uses the Python language.
