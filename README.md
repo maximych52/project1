@@ -1,4 +1,6 @@
 # Research the most popular electric vehicle brand and the most popular model.
+<img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/84bc5d35-69bc-4f0e-929a-f6f5e3e85653" />
+
 ## Authors
 This project create by Maksim Birukov and Stanislav Shapovalov, HSE in Moscou, 2025. 
 ## Idea
