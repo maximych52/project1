@@ -2,7 +2,7 @@
 <img width="860" height="573" alt="image" src="https://github.com/user-attachments/assets/84bc5d35-69bc-4f0e-929a-f6f5e3e85653" />
 
 ## Authors
-This project create by Maksim Birukov and Stanislav Shapovalov, HSE in Moscou, Faculty of Geography of Global Changes and Geoinformation Technologies, 2025. 
+This project create by Maksim Biryukov and Stanislav Shapovalov, HSE in Moscou, Faculty of Geography of Global Changes and Geoinformation Technologies, 2025. 
 ## Idea
 This program identifies the most popular electric vehicle brand and the most popular model of that brand in Washington State, USA.
 ## Expand of project
