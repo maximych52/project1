@@ -8,8 +8,8 @@ This program identifies the most popular electric vehicle brand and the most pop
 ## Expand of project
 You can improve this project by adding code to create ratings and year-by-year statistics.
 ## Usage
-Dowland aplly Anaconda and dowland module Jupiter Notebook.
-Upload file with name "electric_vechicles.csv" in folder "data". Open file "Electric_cars.ipynb" and launch cells. Attention!!! The file name may vary
+Dowland apply Anaconda and dowland module Jupiter Notebook. 
+Upload file with name "electric_vechicles.csv" in folder "data". Open file "Electric_cars.ipynb" and launch cells from the first to the last. Attention!!! The file name may vary
 ## Languge 
 This project uses the Python language.
 ## Source
@@ -21,4 +21,5 @@ This project is designed as a homework assignment for "Project1" as part of the 
 https://github.com/teimy/geohse-python
 ### Link to task: 
 https://github.com/teimy/geohse-python/blob/main/Projects/Project1/project_descriptions.md
-
+### Link to author of course:
+https://github.com/teimy
