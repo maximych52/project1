@@ -10,7 +10,7 @@ You can improve this project by adding code to create ratings and year-by-year s
 ## Usage
 Dowland apply Anaconda and dowland module Jupiter Notebook. 
 Upload file with name "electric_vechicles.csv" in folder "data". Open file "Electric_cars.ipynb" and launch cells from the first to the last. Attention!!! The file name may vary
-## Languge 
+## Language 
 This project uses the Python language.
 ## Source
 This link lead to dataset used in the project: 
